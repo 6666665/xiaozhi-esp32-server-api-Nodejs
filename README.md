@@ -10,6 +10,6 @@
 
 目前对接 https://github.com/xinnan-tech/xiaozhi-esp32-server 0.58 版本
 
-此项目持续更新中.............
 
-Author 联系1015577306@qq.com
+
+其他需求联系Author 1015577306@qq.com
