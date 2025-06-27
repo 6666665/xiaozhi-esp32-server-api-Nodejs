@@ -1,4 +1,4 @@
-# xiaozhi-esp32-server_api_Nodejs
+# xiaozhi-esp32-server-api-Nodejs
 根据xiaozhi-esp32-server 中的api 写的一个nodejs  API 
 想修改或增加一些接口功能，但是本人对于java不是很熟悉
 
